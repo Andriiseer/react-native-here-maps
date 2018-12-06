@@ -2,10 +2,10 @@
 
 # HERE Maps React-Native IOS Map/Route/Turn-by-Turn Navigation
 
- <center>Routing | Navigation
+Routing | Navigation
 ------------ | -------------
 ![](https://media.giphy.com/media/bbORXxwGhb7BWTHPF3/giphy.gif)   | ![](https://media.giphy.com/media/4TrIodkaHvxts0KY4l/giphy.gif)
-</center>
+
 Copyright (c) 2011-2018 HERE Europe B.V.
 
 > **Note:** In order to get the sample code to work, you **must** replace all instances of `{YOUR_APP_ID}`, `{YOUR_APP_CODE}` and `{YOUR_LICENSE_KEY}` within the code and use your own **HERE** credentials.
