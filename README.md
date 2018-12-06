@@ -1,4 +1,14 @@
+
 # HERE Maps React-Native IOS Map/Route/Turn-by-Turn Navigation
+
+## Capabilities
+ * Routing
+ 
+![](https://media.giphy.com/media/bbORXxwGhb7BWTHPF3/giphy.gif)  
+ * Navigation
+ 
+![](https://media.giphy.com/media/4TrIodkaHvxts0KY4l/giphy.gif)
+
 
 Copyright (c) 2011-2018 HERE Europe B.V.
 
@@ -47,13 +57,6 @@ THIS MODULE CURRENTLY WORKS ON IOS ONLY, ANDROID VERSION IS STILL IN DEVELOPMENT
 
 7. Run the project on simulator or device.
 
-## Capabilities
- * Routing
- 
-![](https://media.giphy.com/media/bbORXxwGhb7BWTHPF3/giphy.gif)  
- * Navigation
- 
-![](https://media.giphy.com/media/4TrIodkaHvxts0KY4l/giphy.gif)
 
 
 ## Build Requirements
