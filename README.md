@@ -2,13 +2,9 @@
 # HERE Maps React-Native IOS Map/Route/Turn-by-Turn Navigation
 
 ## Capabilities
- * Routing
- 
-![](https://media.giphy.com/media/bbORXxwGhb7BWTHPF3/giphy.gif)  
- * Navigation
- 
-![](https://media.giphy.com/media/4TrIodkaHvxts0KY4l/giphy.gif)
-
+ Routing | Navigation
+------------ | -------------
+![](https://media.giphy.com/media/bbORXxwGhb7BWTHPF3/giphy.gif)   | ![](https://media.giphy.com/media/4TrIodkaHvxts0KY4l/giphy.gif)
 
 Copyright (c) 2011-2018 HERE Europe B.V.
 
