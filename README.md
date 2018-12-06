@@ -34,7 +34,7 @@ THIS MODULE CURRENTLY WORKS ON IOS ONLY, ANDROID VERSION IS STILL IN DEVELOPMENT
     
 8. Import `NativeModules` from "React-Native" and import MainHRMap from 'HRMap.js'. 
 
-9. Render the map using <MainHRMap> tag. (Dont forget to add width and height to the map as well as Initial coordinates)
+9. Render the map using `<MainHRMap>` tag. (Dont forget to add width and height to the map as well as Initial coordinates)
     
 
 ## Running the example project
