@@ -1,7 +1,5 @@
 
 # HERE Maps React-Native IOS Map/Route/Turn-by-Turn Navigation
-
-## Capabilities
  Routing | Navigation
 ------------ | -------------
 ![](https://media.giphy.com/media/bbORXxwGhb7BWTHPF3/giphy.gif)   | ![](https://media.giphy.com/media/4TrIodkaHvxts0KY4l/giphy.gif)
