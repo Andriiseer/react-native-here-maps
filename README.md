@@ -49,8 +49,10 @@ THIS MODULE CURRENTLY WORKS ON IOS ONLY, ANDROID VERSION IS STILL IN DEVELOPMENT
 
 ## Capabilities
  * Routing
+ 
 ![](https://media.giphy.com/media/bbORXxwGhb7BWTHPF3/giphy.gif)  
  * Navigation
+ 
 ![](https://media.giphy.com/media/4TrIodkaHvxts0KY4l/giphy.gif)
 
 
